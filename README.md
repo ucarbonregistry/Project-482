@@ -16,6 +16,7 @@ baselines
  ACM0006: Electricity and heat generation
 from biomass(Ver.16)&UCR Standard for
 Emission Factor
+
 Sectoral scopes 01 Energy industries (Renewable/NonRenewable Sources)
 _____________
 M/s. Bhimashankar Sahakari Sakhar Karkhana Limited, (BSSKL), Dattatraynagar, Pargaon via
